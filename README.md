@@ -321,7 +321,7 @@ Rating = Wickets(-0.477) + Average(0.59) +
 **Author:** Souraj Chakraborty  
 **Institution:** Asutosh College, University of Calcutta  
 **Department:** Statistics Honours  
-**Academic Year:** 2020-2021  
+**Academic Year:** 2022-2023  
 **Supervisor:** Ms. Oindrila Bose
 
 **Course:** B.Sc. Semester-6, Paper DSE-B2  
